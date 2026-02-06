@@ -82,31 +82,28 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-TOP 5 ELEMENTS
+## TOP 5 ELEMENTS
 
 <img width="1177" height="217" alt="image" src="https://github.com/user-attachments/assets/20e271d9-4ded-496f-a6b4-fa2d8077b944" />
 <img width="1062" height="205" alt="image" src="https://github.com/user-attachments/assets/4ca90102-946d-4e77-a678-cd1c237ddb56" />
 
-PRINT DATA
+## PRINT DATA
 
 <img width="1005" height="448" alt="image" src="https://github.com/user-attachments/assets/c514ca2b-0dcf-4f37-b090-a0121f7852b3" />
 
-CONFUSION ARRAY
+## CONFUSION ARRAY
 
 <img width="715" height="70" alt="image" src="https://github.com/user-attachments/assets/37d339fd-51bc-4f95-9d28-c91994d764bc" />
 
-
-ACCURACY VALUE
+## ACCURACY VALUE
 
 <img width="291" height="50" alt="image" src="https://github.com/user-attachments/assets/e9498a29-9d9d-48c0-9c9b-85c74dfc9df3" />
 
-
-CLASSFICATION REPORT
+## CLASSFICATION REPORT
 
 <img width="666" height="210" alt="image" src="https://github.com/user-attachments/assets/5d7fd603-d4aa-4ed4-9e64-15da3be2d354" />
 
-
-PREDICTION
+## PREDICTION
 
 <img width="161" height="34" alt="image" src="https://github.com/user-attachments/assets/47bc7d93-9bf0-42fc-96dc-1d48eb942253" />
 
