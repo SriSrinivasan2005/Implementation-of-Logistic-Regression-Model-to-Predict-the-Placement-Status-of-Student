@@ -8,13 +8,22 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the required packages and print the present data.
+1. Get the independent variables X and the dependent variable Y (placement status) from the dataset.
 
-2.Print the placement data and salary data.
+2. Convert all categorical variables into numerical form and preprocess the data.
 
-3.Find the null and duplicate values. 
+3. Compute the linear combination of input features using the formula:
+ <img width="169" height="62" alt="image" src="https://github.com/user-attachments/assets/5a98218b-2dc6-4d03-9e30-d438c12ee719" />
 
-4.Using logistic regression find the predicted values of accuracy , confusion matrices.
+
+4. Apply the sigmoid function to convert the linear output into probability values:
+
+<img width="258" height="90" alt="image" src="https://github.com/user-attachments/assets/e0182883-f919-47f6-9473-89448564a53a" />
+
+
+5. Update the model parameters iteratively to minimize the logistic loss function.
+
+6. Use the trained model to predict the class label (Placed / Not Placed) based on a probability threshold.
 
 ## Program:
 
